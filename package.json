@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Curso de Nojde.js",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroBSanchez/nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroBSanchez/nodejs/issues"
+  },
+  "homepage": "https://github.com/PedroBSanchez/nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
